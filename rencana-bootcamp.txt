@@ -1,6 +1,7 @@
 Rencana Bootcamp
 
 - Masuk bootcamp terbaik
+* kalo bisa hacktiv kalo dapet beasiswa yang bayar setelah lulus dapat kerja
 - Dapat bootcamp dengan harga tidak terlalu mahal
 - Bisa lulus dari bootcamp dengan nilai terbaik
 - Mendapat beasiswa
