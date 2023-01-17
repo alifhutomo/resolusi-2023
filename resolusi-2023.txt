@@ -5,4 +5,4 @@ Resolusi 2023
 - Masuk bootcamp dan lulus dengan baik
 - Mendapat kerjaan untuk membantu keluarga
 - Menabung untuk masa depan setelah mendapat pekerjaan
-- Jangan pernah menyerah menjadi web developer
+- Jangan pernah menyerah menjadi front end developer
